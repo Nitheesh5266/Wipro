@@ -24,7 +24,7 @@ public class JavaDemo {
     public static void main(String[] args) {
 
         // Creating object
-        Student s1 = new Student("Nitheesh", 23);
+        Student s1 = new Student("Nitheesh", 22);
 
         // Calling method
         s1.displayDetails();
